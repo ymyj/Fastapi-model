@@ -1,0 +1,10 @@
+[plugin]
+summary = "地下水污染垂向扩散模拟"
+version = "1.0.0"
+description = "模拟地下水污染物的垂向扩散过程，支持多地质分层、动态参数调整与实时可视化"
+author = "water-diffusion-team"
+tags = ["other"]
+database = ["mysql"]
+
+[app]
+router = ["v1"]

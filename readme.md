@@ -22,9 +22,6 @@
 │   ├── apps/web-antdv-next/          # 主应用
 │   ├── packages/                     # 公共组件包
 │   └── pnpm-workspace.yaml           # Monorepo 配置
-├── water-diffusion/                  # 地下水污染模拟插件
-│   ├── backend/                      # 模拟后端（FastAPI + Socket.IO）
-│   └── 垂向扩散.py                   # 独立模拟脚本
 ├── pyproject.toml                    # Python 项目配置
 └── README.md                         # 本文档
 ```

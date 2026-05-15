@@ -1,0 +1,6 @@
+# water_diffusion plugin dependencies
+# These should already be in the main project requirements.txt
+numpy
+matplotlib
+python-socketio
+pillow
